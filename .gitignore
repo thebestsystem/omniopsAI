@@ -1,0 +1,39 @@
+# === Secrets & env ===
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.secret.key
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# === IDE / OS ===
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# === Runtime data ===
+*.db
+*.db-wal
+*.db-shm
+data/
+uploads/
+archives/
