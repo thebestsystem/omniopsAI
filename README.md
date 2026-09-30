@@ -11,7 +11,7 @@ OmniOps vend une **boucle de décision mesurable** — `Données → Baseline �
 
 - [x] PRD v4 — `docs/product/prd.md`
 - [x] Strategy & modèle économique — `docs/product/strategy.md`
-- [ ] Roadmap jalonnée — `docs/product/roadmap.md`
+- [x] Roadmap jalonnée — `docs/product/roadmap.md`
 - [ ] Stack technique & architecture (Phase 0 : pipeline analytics Python — à valider)
 - [ ] Moteur Phase 0 (Decision Audit) : ingestion, data model, policies, backtest, rapport
 - [ ] Product Proof (audit payé qui démontre une opportunité)
